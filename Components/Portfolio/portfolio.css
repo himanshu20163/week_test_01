@@ -1,0 +1,12 @@
+.porfolio_style{
+    background-image: url('https://th.bing.com/th/id/R.9d3b9551689248fd1adb9ed70e7010bb?rik=YjTuYTnRVIqinQ&pid=ImgRaw&r=0');
+    height: 280px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.posts ul {
+    list-style-type: none;
+    text-align: start;
+    line-height: 2rem;
+    color:white;
+}
